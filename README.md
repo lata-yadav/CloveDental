@@ -1,5 +1,5 @@
 # Clove Dental
-![Demo](./demo-ezgif.com-video-to-gif-converter.gif)
+![Demo](./demo.gif)
 
 ## Project Overview
 
